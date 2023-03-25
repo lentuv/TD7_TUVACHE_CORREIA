@@ -3,6 +3,7 @@ The entire Pro Git book, written by Scott Chacon and Ben Straub and published by
 
 The version found here has been updated with corrections and additions from hundreds of contributors. If you see an error or have a suggestion, patches and issues are welcome in its GitHub repository.
 
+## Changing multiple commit messages
 After you have created several commits, or if you have cloned a repository with an existing commit history, you’ll probably want to look back to see what has happened. The most basic and powerful tool to do this is the git log command.
 
 These examples use a very simple project called “simplegit”. To get the project, run:
